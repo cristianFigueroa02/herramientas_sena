@@ -1,0 +1,7 @@
+superadmin: 
+documento: 1107975322
+contraseña: $2y$15$nmOJkdLlTBmKk7gxu3zg1OpdsI5ufU8GuNdDJiEv15c4sMzQdKxXO
+
+admin: 
+documento: 171717
+constraseña: $2y$15$6r4pE4IwUlrwuydtZgvXaOfyBrShteuyG8FIN5cj9jhFeKC/IqL8y
